@@ -1,8 +1,5 @@
 # About me
-
-**lensinkmitchel/lensinkmitchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, my name is Mitch and I am a photographer, writer (in that order) and I like going on long walks with my camera.
 
 - 🔭 I’m currently working on my personal website that's hosted on Ghost (Pro)
 - 🌱 I’m currently learning how to use GitHub
